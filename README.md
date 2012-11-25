@@ -7,7 +7,7 @@ Font has all variants: Regular, Bold, Italic, Bold-Italic.
 Screenshot
 ----------
 
-![screenshot](http://i.imgur.com/GwHTF.png)
+![screenshot](http://i.imgur.com/89Rpl.png)
 
 Usage
 -----
