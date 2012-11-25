@@ -8,3 +8,14 @@ Screenshot
 ----------
 
 ![screenshot](http://i.imgur.com/SlrbA.png)
+
+Usage
+-----
+
+For exemple, to use it in rxvt-unicode, one would need to put in his ~/.Xresources :
+
+    URxvt*font:             -*-dinapowerline-medium-r-*-*-13-*-*-*-*-*-*-*
+    URxvt*boldFont:         -*-dinapowerline-bold-r-*-*-13-*-*-*-*-*-*-*
+    URxvt*itallicFont:      -*-dinapowerline-medium-i-*-*-13-*-*-*-*-*-*-*
+    URxvt*boldItallicFont:  -*-dinapowerline-bold-i-*-*-13-*-*-*-*-*-*-*
+
